@@ -53,9 +53,9 @@ i18n
             title: 'Escúchalo directamente de quienes han vivido nuestro programa:',
             subtitle: 'Descubre las historias de familias que han transformado el aprendizaje en una aventura emocionante.',
             ask_parents: 'Preguntamos a los padres',
-            video1_question: '¿Qué te encanta de bina?',
-            video2_question: '¿Por qué bina?',
-            video3_question: '¿En qué se diferencia bina?',
+            video1_question: '¿Qué te encanta de aprende y crece?',
+            video2_question: '¿Por qué aprende y crece?',
+            video3_question: '¿En qué se diferencia aprende y crece?',
             video4_question: '¿Qué aprenden sus hijos?'
           },
           logos_section: {
@@ -65,9 +65,9 @@ i18n
             upcoming_dates: 'Próximas fechas de inicio 2025: 13 de agosto, 17 de septiembre',
             step: 'Paso {{count}}',
             step1_title: 'Un vistazo a la familia',
-            step1_desc: 'Explora 8 biomas a través de la lente de bina y obtén un resumen a medida de nuestras ofertas para tu familia.',
-            step2_title: 'La aventura de tu hijo en bina',
-            step2_desc: 'Tu hijo se sumerge en el bina-verso con edu-juego, y recibes estrategias de crecimiento personalizadas.',
+            step1_desc: 'Explora 8 biomas a través de la lente de aprende y crece y obtén un resumen a medida de nuestras ofertas para tu familia.',
+            step2_title: 'La aventura de tu hijo en aprende y crece',
+            step2_desc: 'Tu hijo se sumerge en el aprende y crece-verso con edu-juego, y recibes estrategias de crecimiento personalizadas.',
             step3_title: 'Navegación fluida hasta el primer día',
             step3_desc: 'Guiamos a tu familia a través de una fácil incorporación, preparándote para un primer día increíble.',
             cta_button: '¿Encajamos?'
@@ -86,8 +86,8 @@ i18n
             resources_blog: 'Blog',
             resources_faq: 'FAQ',
             contact_title: 'Contacto',
-            contact_address: 'Ciudad de México, México',
-            copyright: ' 2024 Aprende y Crece. Todos los derechos reservados.',
+            contact_address: 'Lima, Perú',
+            copyright: ' 2024 Learn and Grow. Todos los derechos reservados.',
             copyright_special: 'Construido con amor para nuestros niños especiales.'
           },
           stats: {
@@ -195,9 +195,9 @@ i18n
             title: 'Hear it straight from those who have experienced our program:',
             subtitle: 'Discover the stories of families who have transformed learning into an exciting adventure.',
             ask_parents: 'We ask parents',
-            video1_question: 'What do you love about bina?',
-            video2_question: 'Why bina?',
-            video3_question: 'How is bina different?',
+            video1_question: 'What do you love about learn and grow?',
+            video2_question: 'Why learn and grow?',
+            video3_question: 'How is learn and grow different?',
             video4_question: 'What do their children learn?'
           },
           logos_section: {
@@ -228,8 +228,8 @@ i18n
             resources_blog: 'Blog',
             resources_faq: 'FAQ',
             contact_title: 'Contact',
-            contact_address: 'Mexico City, Mexico',
-            copyright: '© 2024 Learn and Grow. All rights reserved.',
+            contact_address: 'Lima City, Peru',
+            copyright: '© 2025 Learn and Grow. All rights reserved.',
             copyright_special: 'Built with love for our special children.'
           },
           stats: {

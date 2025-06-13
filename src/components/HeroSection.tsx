@@ -9,7 +9,7 @@ export const HeroSection: React.FC = () => {
 
   // URL de la imagen de fondo. Puedes cambiarla por la que prefieras.
   // Te recomiendo usar imágenes de alta resolución de sitios como Unsplash, Pexels, etc.
-  const backgroundImageUrl = '/src/images/image00002.jpg';
+  const backgroundImageUrl = '/images/image00002.jpg';
 
   return (
     <section className="relative overflow-hidden min-h-screen flex items-center justify-center">
